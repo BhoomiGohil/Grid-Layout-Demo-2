@@ -26,11 +26,28 @@ Below are visual representations of the webpage across different devices:
 
 ## Getting Started
 
-To view the webpage locally, follow these steps:
+To view the website locally, follow these steps:
 
-1. Clone the repository or download the project files.
-2. Open the `index.html` file in your web browser.
-3. Explore the layout and design!
+1. Clone the repository or download the files.
+   ```
+   git clone https://github.com/BhoomiGohil/html-css-grid-layout-2.git
+   cd html-css-grid-layout-2
+   ```
+2. Open the `Index.html` file in your web browser.
+   ```
+   open Index.html
+   ```
+
+OR
+
+Using Live Server in Visual Studio Code:
+
+1. **Install the Live Server extension:**
+   Open Visual Studio Code Go to the Extensions view by clicking on the square icon on the left sidebar or pressing Ctrl+Shift+X Search for "Live Server" and click Install
+
+2. Once installed, right-click on index.html and select "Open with Live Server".
+
+This will open the project in your browser, and changes made to the code will be reflected automatically.
 
 ## Technologies Used
 
