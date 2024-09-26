@@ -10,14 +10,6 @@ Below are visual representations of the webpage across different devices:
 
 ![Desktop View](desktop.png)
 
-### Tablet
-
-![Tablet View](tablet.png)
-
-### Mobile
-
-![Mobile View](mobile.png)
-
 ## Features
 
 - Responsive design utilizing CSS Grid and Media Queries
@@ -29,14 +21,17 @@ Below are visual representations of the webpage across different devices:
 To view the website locally, follow these steps:
 
 1. Clone the repository or download the files.
-   ```
-   git clone https://github.com/BhoomiGohil/html-css-grid-layout-2.git
-   cd html-css-grid-layout-2
-   ```
+
+```
+git clone https://github.com/BhoomiGohil/Grid-LayoutUI-2.git
+cd Grid-LayoutUI-2
+```
+
 2. Open the `Index.html` file in your web browser.
-   ```
-   open Index.html
-   ```
+
+```
+open Index.html
+```
 
 OR
 
